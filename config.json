@@ -13,7 +13,7 @@
   "session_tags": ["deployed_nn"],
   "need_gpu": true,
   "community_agent": false,
-  "docker_image": "supervisely/base-py-sdk:6.73.309",
+  "docker_image": "supervisely/base-py-sdk:6.73.308",
   "entrypoint": "python -m uvicorn src.main:m.app --host 0.0.0.0 --port 8000",
   "port": 8000
 }

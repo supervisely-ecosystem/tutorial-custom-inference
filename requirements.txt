@@ -1,0 +1,8 @@
+# supervisely==6.73.308
+black
+
+ultralytics==8.3.11
+torch==2.3.1
+torchvision==0.18.1
+
+git+https://github.com/supervisely/supervisely.git@attention-map-inference
