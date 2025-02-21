@@ -1,0 +1,11 @@
+.venv
+supervisely
+*.env
+__pycache__
+.DS_Store
+heatmaps
+project
+data
+src/demo_data/output
+app_data
+supervisely
