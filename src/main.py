@@ -11,7 +11,6 @@ if sly.is_development():
 
 
 api = sly.Api.from_env()
-project_id = sly.env.project_id()
 
 m = CustomModel(use_gui=True, use_serving_gui_template=True)
 m.serve()
