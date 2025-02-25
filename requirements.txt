@@ -1,4 +1,4 @@
-supervisely==6.73.311
+# supervisely==6.73.311
 black
 
 ultralytics==8.3.11
